@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/GideonBature/nodejs-api/issues"
   },
-  "homepage": "https://github.com/GideonBature/nodejs-api#readme"
+  "homepage": "https://github.com/GideonBature/nodejs-api#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
